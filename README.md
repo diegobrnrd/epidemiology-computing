@@ -123,7 +123,7 @@ O comportamento observado reproduz o padrão clássico de uma epidemia sem inter
 epidemiology-computing/
 │
 ├── artigo/
-│   └── artigo.pdf
+│   └── Dinâmica de Propagação da COVID-19 Uma Abordagem Computacional Baseada no Modelo SEIR.pdf
 │
 ├── imagens/
 │   └── grafico_seir.png
